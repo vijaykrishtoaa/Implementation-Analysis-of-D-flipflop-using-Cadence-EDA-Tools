@@ -40,10 +40,14 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 ## Circuit Diagram
 
-### 1. Schematic of D Flip-Flop
-*![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)*
+### 1. Tri State D Flip-Flop
+![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
-### 2. Transient Response Setup
+### 2. Schematic of D Flip-Flop
+![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+
+
+### 3. Transient Response Setup
 *
 ![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)*
 
@@ -53,7 +57,8 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Output
 
 ### 1. Transient Analysis Output
-* ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)*
+![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
+
 
 ## Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
